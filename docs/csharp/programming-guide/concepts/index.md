@@ -33,4 +33,4 @@ ms.lasthandoff: 05/04/2018
   
 |||  
 |---|---|  
-|[性能提示](https://msdn.microsoft.com/library/ms173196(VS.110).aspx) | 介绍了多项有助于提升应用程序性能的基本规则。|
+|[性能提示](../../../framework/performance/performance-tips.md) | 介绍了多项有助于提升应用程序性能的基本规则。|
